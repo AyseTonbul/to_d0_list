@@ -1,0 +1,12 @@
+@media (max-width: 490px) {
+     .btn {
+        padding: 0 !important; 
+        
+    }
+}
+@media (max-width: 490px) {
+    .card-header h5 {
+        font-size: 15px; 
+        
+    }
+}
